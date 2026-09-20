@@ -13,7 +13,7 @@ import { useUserStore } from '@/stores'
  */
 
 // 基地址
-const baseURL = 'https://www.qiansubaiyuan.com/api'
+const baseURL = 'https://localhost:3000/api'
 
 // 添加拦截器
 const httpInterceptor = {
